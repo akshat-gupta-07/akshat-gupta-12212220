@@ -1,8 +1,8 @@
 ### Hello  There 👋 Traveller !! 
 <picture>
-   <img align="center" alt="Hope youre having a good day out there!!" src="https://data.whicdn.com/images/97132081/original.gif">
+   <img align="center" alt="Hope youre having a good day out there!!" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" height="210px" width="100%">
 </picture>
-
+<br><br>
 I am Akshat Gupta, I enjoy using my skills to contribute to the exciting technological advances that happen every day.
 
 - 🔭 Working on my Problem solving and Intuition skills 
