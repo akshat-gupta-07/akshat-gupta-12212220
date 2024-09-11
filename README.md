@@ -37,16 +37,16 @@ I am Akshat Gupta, I enjoy using my skills to contribute to the exciting technol
 
 ### My Stats 🔥 :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akshat-gupta-12212220&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=DD4C15)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akshat-gupta-07&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=DD4C15)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-gupta-12212220&layout=compact&theme=vision-friendly-dark)](https://github.com/plumevo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-gupta-07&layout=compact&theme=vision-friendly-dark)](https://github.com/plumevo/github-readme-stats)
 
 ### Tropies on GitHub 🏆 :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akshat-gupta-12212220&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akshat-gupta-07&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
-**akshat-gupta-12212220/akshat-gupta-12212220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**akshat-gupta-07/akshat-gupta-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
