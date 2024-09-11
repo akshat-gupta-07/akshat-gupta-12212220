@@ -7,7 +7,7 @@ I am Akshat Gupta, I enjoy using my skills to contribute to the exciting technol
 
 - 🔭 Working on my Problem solving and Intuition skills 
 - 🌱 Nurturing My C & C++ skills
-- 🤔 Looking for help with my Mental Health website
+- 🤔 Looking for creating a project
 - 💬 Smile when ever you can,
 - 📫 Find me on:
 <p>&nbsp;</p>
